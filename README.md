@@ -1,7 +1,7 @@
 
 
 
-# Pizza Sales Analytics with Excel and SQL
+# NetflixPyOps
 
 ## Introduction 
 Welcome to an immersive journey into Python data analysis, with a focus on the exciting world of Netflix. In this project, we are going to dive into the massive Netflix dataset, uncovering its vast collection of movies and television shows. You'll master Python's powerful data analysis capabilities through practical application and hands-on exploration, revealing invaluable insights and demonstrating trends hidden within the Netflix dataset.
